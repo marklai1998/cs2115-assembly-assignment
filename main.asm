@@ -1,8 +1,7 @@
-%include "io.inc"
-
-section .text
-global CMAIN
-CMAIN:
-    ;write your code here
-    xor eax, eax
-    ret
+.data
+	mymsg: .asciiz "Hello, world! \n"
+ 
+.text
+	la $a0,mymsg
+	li $v0,4
+	syscall
