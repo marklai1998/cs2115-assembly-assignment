@@ -1,7 +1,7 @@
 # CS2115 Assembly Assignment
 
 ## Introduction
-This repository is created for `City University HK` course `CS2115 - Computer Organization` Assignment 4<br />
+This repository is created for `City University HK` course `CS2115 - Computer Organization` assignment 4<br />
 All credit goes to: Mark Lai
 
 ## Assignment Requirement
